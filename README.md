@@ -2,6 +2,7 @@
   <link type="text/css" rel="stylesheet" href="main.css" />
 </head>
 <body>
+  
 # Bio
 <img src="./cat-black-cat.gif" align="right" width="200" height="200"> Hey, I'm Lucas Barclay and I'm an astrophysics student researching tidal disruption events (TDEs) of population III stars through an MPhil at the University of Cambridge. I have roughly a year's worth of experience working alongside Dr. Guido Roberts-Borsani in two research projects centred around high-redshift galaxies (see my research projects below). Additionally, I wrote a literature review which explored the neutrino mass tension and its connection to the optical depth to reionisation $\tau$ with Prof. Richard Ellis. My main interests include population III stars, galaxy evolution, ionisation history, the EoR, and climate science (shockingly a non-astrophysics subject). 
 
