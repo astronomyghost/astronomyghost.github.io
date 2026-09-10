@@ -1,7 +1,15 @@
 body {
-  background: #fcf3e6;
+  background: #0a080d;
 }
 
 img {
-  background-color: #fcf3e6;
+  background-color: #0a080d;
+}
+
+p {
+  color: #fcfcfc;
+}
+
+h1 {
+  color: #fcfcfc;
 }
