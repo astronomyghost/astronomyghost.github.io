@@ -7,6 +7,6 @@ The Epoch of Reionisation (EoR) has received significant attention with the laun
 ## Research projects
 *Extragalactic smurfs: Investigating the escape fractions of ultra-blue high-redshift galaxies (June 2025 - September 2025)*
 
-*Measuring the neutral hydrogen fraction $x_{HI}$ via a forward modelling approach of BoRG galaxies (August 2025 - April 2026)*
+*Measuring the neutral hydrogen fraction *$x_{HI}$* via a forward modelling approach of BoRG galaxies (August 2025 - April 2026)*
 
 <img src="./NeutralHydrogenFractionPlot.png" align="right">
