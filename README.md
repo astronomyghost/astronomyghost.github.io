@@ -12,9 +12,9 @@ Population III stars are the Megalodons of astrophysics; we are almost certain t
 </p>
 
 <h1>Research projects</h1>
-<b>Extragalactic smurfs: Investigating the escape fractions of ultra-blue high-redshift galaxies (June 2025 - September 2025)</b>
+<p><b>Extragalactic smurfs: Investigating the escape fractions of ultra-blue high-redshift galaxies (June 2025 - September 2025)</b></p>
 
-<b>Measuring the neutral hydrogen fraction *$x_{HI}$* via a forward modelling approach of BoRG galaxies (August 2025 - April 2026)</b>
+<p><b>Measuring the neutral hydrogen fraction *$x_{HI}$* via a forward modelling approach of BoRG galaxies (August 2025 - April 2026)</b></p>
 
 <img src="./NeutralHydrogenFractionPlot.png" align="right">
 </body>
