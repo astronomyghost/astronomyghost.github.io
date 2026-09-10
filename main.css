@@ -6,10 +6,6 @@ img {
   background-color: #0a080d;
 }
 
-p {
-  color: #fcfcfc;
-}
-
-h1 {
+p,h1,b {
   color: #fcfcfc;
 }
